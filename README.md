@@ -10,19 +10,6 @@ This repository contains an initial data and exploratory analysis of Instacart's
 
 Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. Your task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
-## **Key Questions**
-
-* What are the busiest days of the week and hours of the day?
-* At what times do customers spend the most money?
-* With Instacart’s wide range of product prices, what recommendations can simplify price range groupings to better guide marketing efforts?
-* Are there specific types of products that are more popular than others?
-* How is brand loyalty distributed among users?
-* Do ordering habits vary based on a customer’s loyalty status?
-* Are there differences in ordering habits based on a customer’s region?
-* Is there a connection between age and family status regarding ordering habits?
-* What classifications can be derived from demographic information, such as age, income, types of goods, and family status?
-* How do ordering habits differ among various customer profiles?
-
 ## **Data**
 
 Datasets used for this project:
@@ -44,6 +31,19 @@ Utilizes the following libraries:
 * Seaborn: for data visualizations
 * Matplotlib: for data visualizations
 * SciPy: for mathematical equations
+
+## **Key Questions**
+
+* What are the busiest days of the week and hours of the day?
+* At what times do customers spend the most money?
+* With Instacart’s wide range of product prices, what recommendations can simplify price range groupings to better guide marketing efforts?
+* Are there specific types of products that are more popular than others?
+* How is brand loyalty distributed among users?
+* Do ordering habits vary based on a customer’s loyalty status?
+* Are there differences in ordering habits based on a customer’s region?
+* Is there a connection between age and family status regarding ordering habits?
+* What classifications can be derived from demographic information, such as age, income, types of goods, and family status?
+* How do ordering habits differ among various customer profiles?
 
 ## **Folders**
 
